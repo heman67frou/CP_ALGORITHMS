@@ -1,3 +1,5 @@
+for more information go to -> https://cp-algorithms.com/string/prefix-function.html
+
 #include <iostream>
 #include <vector>
 using namespace std;
